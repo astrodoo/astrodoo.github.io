@@ -64,7 +64,7 @@ Miscellaneous:
 * `Monthly Sky Map <http://www.skymaps.com/downloads.html>`_
 * `PhD Comics <http://www.phdcomics.com/comics.php>`_
 * `Prezi <https://prezi.com/>`_
-* `Sphynx-python <http://www.sphinx-doc.org/en/stable/>`_ / `Sphynx-ReST manual <http://rest-sphinx-memo.readthedocs.io/en/latest/intro.html>`_ 
+* `Sphinx-python <http://www.sphinx-doc.org/en/stable/>`_ / `Sphinx-ReST manual <http://rest-sphinx-memo.readthedocs.io/en/latest/intro.html>`_ 
 
 Personal pages:
 -----------------

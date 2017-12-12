@@ -32,10 +32,10 @@ Using theory and/or numerical simulations, I'd studied the dynamics of (semi-)re
 outflows from compact objects interacting with the interstellar matter. My major interests were
 jets from high(low) mass X-ray binaries and bow shock pulsar wind nebulae.
 
-Before starting Phd program in US, as a member of CnTAG, 
+Before starting Phd program in US, as a member of CnTAG at the `Seoul National University`_ in South Korea, 
 I'd studied a gaseous dynamics about barred spiral galaxies
-regarding with the effects of self-gravity at the `Seoul National University`_ in South Korea.
-This work was supervised by `Prof. Woong-Tae Kim`_.
+regarding with the effects of self-gravity .
+This project was supervised by `Prof. Woong-Tae Kim`_.
 
 Outside the research, I love to play any sports especially with ball such as soccer, basket ball, 
 tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guitar.
