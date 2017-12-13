@@ -6,7 +6,7 @@
 .. include:: _static/isonum.txt
 
 DooSoo Yoon
-===================================
+===========
 
 | **CAS PIFI Postdoctoral Fellow** 
 | **High Energy Astrophysics Group**
@@ -19,7 +19,7 @@ DooSoo Yoon
 .. _Curriculum Vitae: _static/Yoon_CV.pdf
 
 About me
-===================================
+--------
 
 I am a CAS PIFI Fellow Postdoctor working with `Prof. Feng Yuan and his group members`_ at `Shanghai Astronomical Observatory`_.
 I truely have diverse interests on astrophysical outflows and their impact on the environment. Currently, I have
@@ -77,7 +77,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 |
 
 Publications
-====================================
+------------
 
 `All of my publications (in ADS)`_
 
@@ -104,23 +104,8 @@ Refereed Publications:
    :align: center
 
 .. toctree::
-   :maxdepth: 2
+   :hidden:
 
-.. links
-
-.. test for source code::
-   hey this is source code
-   Oh ye1!!
-
-.. ===== ===== =======
-   A      B    A and B
-   ===== ===== =======
-   ok    ok     ok
-   ===== ===== =======
-
-.. Indices and tables
-  ==================
-  * :ref:`genindex`
-  * :ref:`modindex`
-  * :ref:`search`
+   projects
+   links
 
