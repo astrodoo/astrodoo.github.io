@@ -1,6 +1,6 @@
-====================
+========
 Projects
-====================
+========
 
 Collection of movie clips for the published work.
 
@@ -8,8 +8,8 @@ Collection of movie clips for the published work.
 Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I):
 ==============================================================================================
 Low-Angular Momentum Case
-=========================
-Yuan, F., Yoon, D., Li, Y., Ho, L., Gan, Z., Guo, F. 2017 ApJ
+-------------------------
+`Yuan, F., Yoon, D., Li, Y., Gan, Z., Ho, L.C., & Guo, F. 2017, submitted to ApJ (arXiv;1712.04964) <http://adsabs.harvard.edu/abs/2017arXiv171204964Y>`_
 
 .. raw:: html
 
@@ -24,8 +24,8 @@ Yuan, F., Yoon, D., Li, Y., Ho, L., Gan, Z., Guo, F. 2017 ApJ
 Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II):
 ===============================================================================================
 High-Angular Momentum Case
-==========================
-Yoon, D., Yuan, F., Gan, Z. 2017 in preparation
+--------------------------
+Yoon, D., Yuan, F., Gan, Z. 2017, to be submitted to ApJ
 
 .. raw:: html
 
