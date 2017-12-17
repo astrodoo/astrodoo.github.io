@@ -51,7 +51,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 .. topic:: Recent News
   
-   * The paper "Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case" is submitted to ApJ (Dec.2017)
+   * The paper "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case*" is submitted to ApJ (Dec.2017)
    * present a seminar talk at the University of Iowa, Iowa city (Sep. 5, 2017)
    * present a poster in `HEAD meeting 16th <http://aas.org/meetings/head16>`_ at Idaho (Aug.20-24,2017)
    * present an oral talk in Accreting black holes and AGN feedback conference at Harbin (Jul.24-27,2017) 
