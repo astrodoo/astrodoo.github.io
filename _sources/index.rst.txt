@@ -49,6 +49,11 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 |
 
+.. image:: _static/Yoon_banner.png
+   :align: center
+
+|
+
 .. topic:: Recent News
   
    * The paper "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case*" is submitted to ApJ (Dec.2017)
