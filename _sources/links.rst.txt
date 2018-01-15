@@ -21,6 +21,7 @@ Computations:
 * `FIRE: Feedback In Realistic Environments <http://fire.northwestern.edu/>`_
 * `EAGLE Project: Evolution and Assembly of GaLaxies and their Environments <http://icc.dur.ac.uk/Eagle/>`_
 * `Einstein Toolkit <http://einsteintoolkit.org/>`_
+* `RAMSES code <http://www.ics.uzh.ch/~teyssier/ramses/RAMSES.html>`_
 * Numerical Recipes in `Fortran77 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookfpdf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
 * `Cloudy: spectral synthesis code <http://www.nublado.org/>`_
 * Python
