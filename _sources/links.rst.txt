@@ -1,18 +1,17 @@
-=====
+=================
 Links
-=====
+=================
 
 Papers:
 -----------------
 * `SAO/NASA ADS <http://adsabs.harvard.edu/abstract_service.html>`_
 * `Astro-Ph / new <http://arxiv.org/list/astro-ph/new>`_
-* `arXiver <http://arxiver.moonhats.com/>`_
 
 Computations:
 -----------------
-* `Athena code <https://princetonuniversity.github.io/Athena-Cversion/>`_
 * `Flash code (ASC in Chicago Univ.) <http://flash.uchicago.edu/website/home/>`_
 * `Zeus MP2 <http://solarmuri.ssl.berkeley.edu/~ledvina/public/code/>`_
+* `Athena++ Radiation MHD code <http://princetonuniversity.github.io/athena/index.html>`_
 * `Pluto <http://plutocode.ph.unito.it/>`_
 * `Gizmo <http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html>`_
 * `MAD Star - Calculation of Stellar Structure \& Evolution <http://www.astro.wisc.edu/~townsend/static.php?ref=tools>`_
@@ -36,6 +35,7 @@ Computations:
    * `PyAtomDB <http://atomdb.readthedocs.io/en/stable/index.html>`_
    * `PYRO: Simple Python-based tutorial on computational methods for hydrodynamics (Zingale, M.) <https://github.com/zingale/pyro2>`_
    * `pyCloudy: python version of Cloudy <https://sites.google.com/site/pycloudy/>`_
+   * `plotly: interactive visualization in python <https://plot.ly/>`_
 * IDL
    * `Coyote's Guide to IDL <http://www.idlcoyote.com/>`_
    * `IDL Astro Library <http://idlastro.gsfc.nasa.gov/>`_
