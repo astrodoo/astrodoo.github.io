@@ -54,9 +54,10 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 |
 
+.. * will start postdoctoral position working with `Prof. Sera Markoff at the University of Amsterdam <http://www.seramarkoff.com/>`_ (Sep.2018)
+
 .. topic:: Recent News
   
-   * will start postdoctoral position working with `Prof. Sera Markoff at the University of Amsterdam <http://www.seramarkoff.com/>`_ (Sep.2018)
    * The paper "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-angular Momentum Case*" is submitted to ApJ (Mar.2018)
    * The paper "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case*" is submitted to ApJ (Dec.2017)
    * present a seminar talk at the University of Iowa, Iowa city (Sep. 5, 2017)
