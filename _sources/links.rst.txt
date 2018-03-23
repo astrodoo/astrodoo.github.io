@@ -55,6 +55,8 @@ Observations:
 Miscellaneous:
 -----------------
 * `Astronomy Picture of the Day <http://apod.nasa.gov/apod/>`_
+* `Stellarium: open source planetarium package <http://stellarium.org/>`_
+* `Gaia Sky: open source, real-time 3D visualization from Gaia Data <https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/>`_
 * `AstroBetter <http://www.astrobetter.com/>`_
 * `Astrobites <http://astrobites.org/>`_
 * `Open Astrophysics Bookshelf <http://open-astrophysics-bookshelf.github.io/>`_
