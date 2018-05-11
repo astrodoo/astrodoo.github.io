@@ -68,6 +68,7 @@ Miscellaneous:
 * `Galaxy Crash Java Lab <http://burro.cwru.edu/JavaLab/GalCrashWeb/>`_
 * `AstroNet:A Neural Network for Identifying Exoplanets in Light Curves <https://github.com/tensorflow/models/tree/master/research/astronet>`_
 * `Backyard Astronomy Basics <https://www.homeadvisor.com/r/home-science-backyard-astronomy/>`_
+* `Naked Eye Astronomy Guide <https://www.eyebuydirect.com/naked-eye-astronomy-guide>`_
 * `Monthly Sky Map <http://www.skymaps.com/downloads.html>`_
 * `PhD Comics <http://www.phdcomics.com/comics.php>`_
 * `Prezi <https://prezi.com/>`_
