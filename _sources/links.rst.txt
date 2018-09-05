@@ -1,18 +1,17 @@
-=====
+=================
 Links
-=====
+=================
 
 Papers:
 -----------------
 * `SAO/NASA ADS <http://adsabs.harvard.edu/abstract_service.html>`_
 * `Astro-Ph / new <http://arxiv.org/list/astro-ph/new>`_
-* `arXiver <http://arxiver.moonhats.com/>`_
 
 Computations:
 -----------------
-* `Athena code <https://princetonuniversity.github.io/Athena-Cversion/>`_ & `Athena++ code <http://princetonuniversity.github.io/athena/>`_
 * `Flash code (ASC in Chicago Univ.) <http://flash.uchicago.edu/website/home/>`_
 * `Zeus MP2 <http://solarmuri.ssl.berkeley.edu/~ledvina/public/code/>`_
+* `Athena++ Radiation MHD code <http://princetonuniversity.github.io/athena/index.html>`_
 * `Pluto <http://plutocode.ph.unito.it/>`_
 * `Gizmo <http://www.tapir.caltech.edu/~phopkins/Site/GIZMO.html>`_
 * `MAD Star - Calculation of Stellar Structure \& Evolution <http://www.astro.wisc.edu/~townsend/static.php?ref=tools>`_
@@ -23,6 +22,7 @@ Computations:
 * `FIRE: Feedback In Realistic Environments <http://fire.northwestern.edu/>`_
 * `EAGLE Project: Evolution and Assembly of GaLaxies and their Environments <http://icc.dur.ac.uk/Eagle/>`_
 * `Einstein Toolkit <http://einsteintoolkit.org/>`_
+* `RAMSES code <http://www.ics.uzh.ch/~teyssier/ramses/RAMSES.html>`_
 * Numerical Recipes in `Fortran77 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookfpdf.html>`_ / `Fortran90 <http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html>`_
 * `Cloudy: spectral synthesis code <http://www.nublado.org/>`_
 * Python
@@ -35,6 +35,7 @@ Computations:
    * `PyAtomDB <http://atomdb.readthedocs.io/en/stable/index.html>`_
    * `PYRO: Simple Python-based tutorial on computational methods for hydrodynamics (Zingale, M.) <https://github.com/zingale/pyro2>`_
    * `pyCloudy: python version of Cloudy <https://sites.google.com/site/pycloudy/>`_
+   * `plotly: interactive visualization in python <https://plot.ly/>`_
 * IDL
    * `Coyote's Guide to IDL <http://www.idlcoyote.com/>`_
    * `IDL Astro Library <http://idlastro.gsfc.nasa.gov/>`_
@@ -51,24 +52,18 @@ Observations:
 * `NuSTAR (Nuclear Spectroscopic Telescope ARray) <http://www.nustar.caltech.edu/>`_
 * `XMM-Newton (X-ray Multi Mirror Mission) <http://xmm.esac.esa.int/>`_
 * `Sky Chart (Madison) <http://cleardarksky.com/c/MadisonWIkey.html?1>`_
-* `ArcSecond (Search engine for Astronomical target) <https://www.arcsecond.io/>`_
 
 Miscellaneous:
 -----------------
-* `Astronomy Picture of the Day <http://apod.nasa.gov/apod/>`_
-* `Stellarium: open source planetarium package <http://stellarium.org/>`_
-* `Gaia Sky: open source, real-time 3D visualization from Gaia Data <https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/>`_
+* `Open Astrophysics Bookshelf <http://open-astrophysics-bookshelf.github.io/>`_
 * `AstroBetter <http://www.astrobetter.com/>`_
 * `Astrobites <http://astrobites.org/>`_
-* `Open Astrophysics Bookshelf <http://open-astrophysics-bookshelf.github.io/>`_
 * `Watch Live Astronomy Cams and Resources <http://www.livewatch.com/watch-live-astronomy-cams-and-resources/>`_
 * `Black Hole Encyclopedia <http://blackholes.stardate.org/>`_
 * `Galaxy Zoo Project <http://www.galaxyzoo.org/>`_
 * `Galaxy Merger Project <http://galmer.obspm.fr/>`_
 * `Galaxy Crash Java Lab <http://burro.cwru.edu/JavaLab/GalCrashWeb/>`_
-* `AstroNet:A Neural Network for Identifying Exoplanets in Light Curves <https://github.com/tensorflow/models/tree/master/research/astronet>`_
-* `Backyard Astronomy Basics <https://www.homeadvisor.com/r/home-science-backyard-astronomy/>`_
-* `Naked Eye Astronomy Guide <https://www.eyebuydirect.com/naked-eye-astronomy-guide>`_
+* `Astronomy Picture of the Day <http://apod.nasa.gov/apod/>`_
 * `Monthly Sky Map <http://www.skymaps.com/downloads.html>`_
 * `PhD Comics <http://www.phdcomics.com/comics.php>`_
 * `Prezi <https://prezi.com/>`_
@@ -80,7 +75,7 @@ Personal pages:
 * `Facebook <http://www.facebook.com/doosoo>`_
 * `AstroCoffee <http://astrocoffee.tistory.com/>`_ (Korean)
 * `Personal blog <http://centerofworld.tistory.com>`_ (Korean)
-* `Scraps <http://astrodoo.egloos.com>`_ (Korean)
+* `Scraps <http://bazzinga.egloos.com>`_ (Korean)
 
 Affiliations:
 -----------------
