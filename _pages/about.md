@@ -7,6 +7,7 @@ author_profile: true
 redirect_from: 
   - /about/
   - /about.html
+excerpt: "<br />"
 header:
   overlay_image: /assets/images/cygA_banner.jpg
   overlay_color: "#000"
@@ -43,6 +44,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 
 * **Recent & Upcoming Events** 
+   * The paper "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" is submitted to ApJ (Jan.2019)
    * attend **Event Horizon Telescope Collaboration Meeting 2018** at Radboud Univ. (Nov.2018)
    * The paper "***Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-angular Momentum Case***" is published in ApJ (Aug.2018)
    * The paper "***Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case***" is published in ApJ (Apr.2018)

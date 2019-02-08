@@ -7,6 +7,7 @@ classes:
 title: Publications
 author_profile: true
 
+excerpt: "<br />"
 header:
   overlay_image: /assets/images/cygA_banner.jpg
   overlay_color: "#000"
@@ -17,7 +18,7 @@ header:
 
 ## Refereed Publications:
 
-* **Yoon, D.**, Yuan, F., Ostriker, J.P., & Ciotti, L. "*On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy*" 2018, Submitted to _ApJ_ <br />
+* **Yoon, D.**, Yuan, F., Ostriker, J.P., & Ciotti, L. "*On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy*" 2019, Submitted to _ApJ_ <br />
   [_arXiv_](https://arxiv.org/abs/1901.07570)
 
 * **Yoon, D.**, Yuan, F., Gan, Z., Ostriker, J.P., Li, Y., & Ciotti, L. "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case*" 2018, _ApJ_, 864, 6 <br />

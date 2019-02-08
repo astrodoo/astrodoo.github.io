@@ -7,6 +7,7 @@ classes:
 title: Links
 author_profile: true
 
+excerpt: "<br />"
 header:
   overlay_image: /assets/images/cygA_banner.jpg
   #image_description: "A simulation of Sgr A* as seen by the EHT at 230 GHz" 
