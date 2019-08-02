@@ -44,6 +44,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 
 * **Recent & Upcoming Events** 
+   * Take part in organizing [Advancing Theoretical Astrophysics in Amsterdam 2019](https://collectiveastronomy.github.io/advancingtheoastro/) as a LOC member (July.2019) 
    * The paper "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" is submitted to ApJ (Jan.2019)
    * attend **Event Horizon Telescope Collaboration Meeting 2018** at Radboud Univ. (Nov.2018)
    * The paper "***Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-angular Momentum Case***" is published in ApJ (Aug.2018)

@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/cv/</loc>
+<loc>/_pages/cv/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/links/</loc>
+<loc>/_pages/links/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/projects/</loc>
+<loc>/_pages/projects/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/_pages/publication/</loc>
+<loc>/_pages/publication/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/assets/pdfs/Yoon_CV.pdf</loc>
+<loc>/assets/pdfs/Yoon_CV.pdf</loc>
 <lastmod>2019-02-08T02:30:36+01:00</lastmod>
 </url>
 </urlset>
