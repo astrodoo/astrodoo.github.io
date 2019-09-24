@@ -17,9 +17,10 @@ header:
 ---
 
 ## Papers:
-* [SAO/NASA ADS](http://adsabs.harvard.edu/abstract_service.html)
+* [SAO/NASA ADS](https://ui.adsabs.harvard.edu/)
 * [Astro-Ph / new](http://arxiv.org/list/astro-ph/new)
 * [arXiver](http://arxiver.moonhats.com/)
+* [arXivsorter](https://www.arxivsorter.org)
 
 
 ## Computations:
@@ -40,10 +41,8 @@ header:
 * Numerical Recipes in [Fortran77](http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookfpdf.html) / [Fortran90](http://homepage.univie.ac.at/mario.barbatti/papers/NRF/bookf90pdf.html)
 * [Cloudy: spectral synthesis code](http://www.nublado.org/)
 * [Astrophysical Code Library](http://rainman.astro.illinois.edu/codelib/)
- * [GRMONTY: Radiative Transportation Scheme with the Monte Carlo Technique](https://www.astro.princeton.edu/~jdolence/research/holes.html) <br />
-   [GRMONTY: Github download](https://github.com/pseudotensor/grmonty)
+ * [GRMONTY: Radiative Transportation Scheme with the Monte Carlo Technique](https://github.com/pseudotensor/grmonty)
 * Python
-   * [Dive into Python](http://www.diveintopython.net/toc/index.html)
    * [Anaconda](https://www.continuum.io/)
    * [matplotlib](http://matplotlib.org)
    * [AstroML](http://www.astroml.org)
@@ -66,9 +65,9 @@ header:
 ## Observations:
 * [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/)
 * [NASA/IPAC Extragalactic Database (NED)](http://ned.ipac.caltech.edu/)
+* [Event Horizon Telescope](https://eventhorizontelescope.org/)
 * [NuSTAR (Nuclear Spectroscopic Telescope ARray)](http://www.nustar.caltech.edu/)
 * [XMM-Newton (X-ray Multi Mirror Mission)](http://xmm.esac.esa.int/)
-* [Sky Chart (Madison)](http://cleardarksky.com/c/MadisonWIkey.html?1)
 * [ArcSecond (Search engine for Astronomical target)](https://www.arcsecond.io/)
 
 
@@ -82,27 +81,22 @@ header:
 * [AstroBetter](http://www.astrobetter.com/)
 * [Astrobites](http://astrobites.org/)
 * [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io/)
-* [Watch Live Astronomy Cams and Resources](http://www.livewatch.com/watch-live-astronomy-cams-and-resources/)
 * [Black Hole Encyclopedia](http://blackholes.stardate.org/)
 * [Galaxy Zoo Project](http://www.galaxyzoo.org/)
 * [Galaxy Merger Project](http://galmer.obspm.fr/)
-* [Galaxy Crash Java Lab](http://burro.cwru.edu/JavaLab/GalCrashWeb/)
-* [AstroNet:A Neural Network for Identifying Exoplanets in Light Curves](https://github.com/tensorflow/models/tree/master/research/astronet)
-* [Backyard Astronomy Basics](https://www.homeadvisor.com/r/home-science-backyard-astronomy/)
-* [Naked Eye Astronomy Guide](https://www.eyebuydirect.com/naked-eye-astronomy-guide)
+* [AstroNet:A Neural Network for Identifying Exoplanets in Light Curves](https://github.com/google-research/exoplanet-ml)
 * [Monthly Sky Map](http://www.skymaps.com/downloads.html)
 * [PhD Comics](http://www.phdcomics.com/comics.php)
 * [Prezi](https://prezi.com/)
-* [Sphinx-python](http://www.sphinx-doc.org/en/stable/) / [Sphinx-ReST manual](http://rest-sphinx-memo.readthedocs.io/en/latest/intro.html>)
+* [Sphinx-python](http://www.sphinx-doc.org/en/stable/) 
 * [Jekyll](https://jekyllrb.com/)
 
 
 ## Personal pages:
-* [Research log](http://doosoo.wikidot.com/)
 * [Facebook](http://www.facebook.com/doosoo)
 * [AstroCoffee](http://astrocoffee.tistory.com/) (Korean)
+* [AstroCoke (Scraps)](http://astrocoke.tistory.com/) (Korean)
 * [Personal blog](http://centerofworld.tistory.com) (Korean)
-* [Scraps](http://astrodoo.egloos.com) (Korean)
 
 
 ## Affiliations:
