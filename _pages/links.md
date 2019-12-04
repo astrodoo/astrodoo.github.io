@@ -79,8 +79,7 @@ header:
 * [ArcSecond (Search engine for Astronomical target)](https://www.arcsecond.io/)
 
 ## Miscellaneous:
-* [Black Hole Shadow](http://rantonels.github.io/starless/) <br />
-  [github](https://github.com/rantonels/starless)
+* [Black Hole Shadow](http://rantonels.github.io/starless/): [github](https://github.com/rantonels/starless)
 * [Stars in a Box](https://starinabox.lco.global/)
 * [Astronomy Picture of the Day](http://apod.nasa.gov/apod/)
 * [Stellarium: open source planetarium package](http://stellarium.org/)
