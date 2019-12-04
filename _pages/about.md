@@ -46,6 +46,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 
 * **Recent & Upcoming Events** 
+   * present a poster in [AAS 235th](https://aas.org/meetings/aas235) at Hawaii (Jan.,2020)
    * The paper "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" is accepted for publication in ApJ (Sep.2019)
    * Take part in organizing [Advancing Theoretical Astrophysics in Amsterdam 2019](https://collectiveastronomy.github.io/advancingtheoastro/) as a LOC member (July.2019) 
    * attend **Event Horizon Telescope Collaboration Meeting 2018** at Radboud Univ. (Nov.2018)
