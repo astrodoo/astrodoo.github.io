@@ -19,7 +19,7 @@ header:
 
 
 ### Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-Angular Momentum Case
-[see Yuan et al. 2018](http://adsabs.harvard.edu/abs/2018ApJ...857..121aY)
+[see Yuan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...857..121Y/abstract){:target="_blank"}
 
 <!-- <video width="700" height="744" controls="controls"> -->
 <video width="700" height="744" controls="controls">
@@ -30,7 +30,7 @@ header:
 
 
 ### Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case
-[see Yoon et al. 2018](http://adsabs.harvard.edu/abs/2018ApJ...864....6Y)
+[see Yoon et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...864....6Y/abstract){:target="_blank"}
 
 <video width="700" height="744" controls="controls">
 <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/ac5_zoom_show2.mp4" type="video/mp4">
@@ -40,7 +40,7 @@ header:
 
 
 ### Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities
-[see Yoon & Heinz 2017](http://adsabs.harvard.edu/abs/2017MNRAS.464.3297Y)
+[see Yoon & Heinz 2017](https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.3297Y/abstract){:target="_blank"}
 
 <video width="700" height="488" controls="controls">
 <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/guitar.mp4" type="video/mp4">
@@ -55,7 +55,7 @@ header:
 
 
 ### Formation of Recollimation Shocks in Jets of HMXBs
-[see Yoon, Zdziarski & Heinz 2016](http://adsabs.harvard.edu/abs/2016MNRAS.456.3638Y)
+[see Yoon, Zdziarski & Heinz 2016](https://ui.adsabs.harvard.edu/abs/2016MNRAS.456.3638Y/abstract){:target="_blank"}
 
 <video width="700" height="553" controls="controls">
 <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/jet_evol.mp4" type="video/mp4">
@@ -65,7 +65,7 @@ header:
 
 
 ### Global Simulations of the Interaction of Microquasar Jets with a Stellar Wind in HMXBs
-[see Yoon & Heinz 2015](http://adsabs.harvard.edu/abs/2015ApJ...801...55Y)
+[see Yoon & Heinz 2015](https://ui.adsabs.harvard.edu/abs/2015ApJ...801...55Y/abstract){:target="_blank"}
 
 <video width="700" height="525" controls="controls">
 <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/mv_sphwind_mvMaker.mp4" type="video/mp4">
@@ -80,7 +80,7 @@ header:
 
 
 ### Jet Trails and Mach Cones: The Interaction of fast-moving LMXBs with the ISM
-[see Yoon, Morsony & Heinz 2011](http://adsabs.harvard.edu/abs/2011ApJ...742...25Y)
+[see Yoon, Morsony & Heinz 2011](https://ui.adsabs.harvard.edu/abs/2011ApJ...742...25Y/abstract){:target="_blank"}
 
 <video width="700" height="513" controls="controls">
 <source src="{{ site.url }}{{ site.baseurl }}/assets/movies/LMXBs.mp4" type="video/mp4">

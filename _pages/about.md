@@ -21,44 +21,44 @@ header:
   <!-- <figcaption>Itty-bitty caption.</figcaption> -->
 </figure>
 
-I am a postdoctoral fellow, working with [Prof. Sera Markoff](http://www.seramarkoff.com/) at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/).
+I am a postdoctoral fellow, working with [Prof. Sera Markoff](http://www.seramarkoff.com/){:target="_blank"} at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"}.
 Using GRMHD code _H-AMR_, I've been studying the dynamics of accretion disk, wind, and jets around black holes. As a member of the Event Horizon Telescope (EHT) project,
-I've been particiapting in the collaborative investigation that explores the nature of supermassive black holes, such as Sgr A*, M87.
+I've been particiapting in the collaborative investigation that explores the nature of supermassive black holes, such as Sgr A* and M87.
 
 Before the current position,
-I was a CAS PIFI Fellow Postdoctor working with [Prof. Feng Yuan and his group members](http://center.shao.ac.cn/fyuan) at [Shanghai Astronomical Observatory](http://english.shao.cas.cn/).
+I was a CAS PIFI Fellow Postdoctor working with [Prof. Feng Yuan and his group members](http://center.shao.ac.cn/fyuan){:target="_blank"} at [Shanghai Astronomical Observatory](http://english.shao.cas.cn/){:target="_blank"}.
 I truely have diverse interests on astrophysical outflows and their impact on the environment. With Prof. Yuan, I have
 studied the theoretically the effects of Active Galactic Nuclei Feedback on the evolution of isolated Early Type Galaxies
 considering the galactic rotation and its angular momentum transport outward. 
 
-I graduated at the [University of Wisconsin-Madison](http://www.astro.wisc.edu/), supervised by [Prof. Sebastian Heinz](http://www.astro.wisc.edu/~heinzs).
+I graduated at the [University of Wisconsin-Madison](http://www.astro.wisc.edu/){:target="_blank"}, supervised by [Prof. Sebastian Heinz](http://www.astro.wisc.edu/~heinzs){:target="_blank"}.
 Using theory and/or numerical simulations, I'd studied the dynamics of (semi-)relativistic 
 outflows from compact objects interacting with the interstellar matter. My major interests were
 jets from high(low) mass X-ray binaries and bow shock pulsar wind nebulae.
 
-Before starting Phd program in US, as a member of CnTAG at the [Seoul National University](http://astro2.snu.ac.kr/e_main.php) in South Korea, 
+Before starting Phd program in US, as a member of CnTAG at the [Seoul National University](http://astro2.snu.ac.kr/e_main.php){:target="_blank"} in South Korea, 
 I'd studied a gaseous dynamics about barred spiral galaxies
 regarding with the effects of self-gravity .
-This project was supervised by [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim/).
+This project was supervised by [Prof. Woong-Tae Kim](http://astro.snu.ac.kr/~wkim/){:target="_blank"}.
 
 Outside the research, I love to play any sports especially with ball such as soccer, basket ball, 
 tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guitar.
 
 
 * **Recent & Upcoming Events** 
-   * present a poster in [AAS 235th](https://aas.org/meetings/aas235) at Hawaii (Jan.,2020)
+   * present a poster in [AAS 235th](https://aas.org/meetings/aas235){:target="_blank"} at Hawaii (Jan.,2020)
    * The paper "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" is accepted for publication in ApJ (Sep.2019)
-   * Take part in organizing [Advancing Theoretical Astrophysics in Amsterdam 2019](https://collectiveastronomy.github.io/advancingtheoastro/) as a LOC member (July.2019) 
+   * Take part in organizing [Advancing Theoretical Astrophysics in Amsterdam 2019](https://collectiveastronomy.github.io/advancingtheoastro/){:target="_blank"} as a LOC member (July.2019) 
    * attend **Event Horizon Telescope Collaboration Meeting 2018** at Radboud Univ. (Nov.2018)
    * The paper "***Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-angular Momentum Case***" is published in ApJ (Aug.2018)
    * The paper "***Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-angular Momentum Case***" is published in ApJ (Apr.2018)
    * present a seminar talk at the University of Iowa, Iowa city (Sep. 5, 2017)
-   * present a poster in [HEAD meeting 16th](http://aas.org/meetings/head16) at Idaho (Aug.20-24,2017)
+   * present a poster in [HEAD meeting 16th](http://aas.org/meetings/head16){:target="_blank"} at Idaho (Aug.20-24,2017)
    * present an oral talk in Accreting black holes and AGN feedback conference at Harbin (Jul.24-27,2017) 
-   * present an oral talk in [APRIM Conference](http://www.aprim2017.tw/) at Taiwan (Jul.3-7,2017)
+   * present an oral talk in [APRIM Conference](http://www.aprim2017.tw/){:target="_blank"} at Taiwan (Jul.3-7,2017)
    * present an oral talk in key laboratory meeting at Taiwan (Jul.1-3,2017)
    * The paper "***Bow-shock Pulsar Wind Nebulae Passing Through Density Discontinuities***" is published in MNRAS (Jan.2017)
-   * award the [NSFC Research Fund for Young International Scientists](http://www.nsfc.gov.cn/publish/portal0/tab38/info51758.htm) (Aug.18,2016)
+   * award the [NSFC Research Fund for Young International Scientists](http://www.nsfc.gov.cn/publish/portal0/tab38/info51758.htm){:target="_blank"} (Aug.18,2016)
    * attend the Cloudy Workshop at Shandong University (Jun. 20, 2016)
    * The paper "***Formation of Recollimation Shocks in Jets of High-mass X-ray Binaries***" is published in MNRAS (Jan.2016)
 {: .notice--info}
@@ -79,7 +79,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 -->
 
 
-### [Word Cloud](https://amueller.github.io/word_cloud/) created with my latest work.
+### [Word Cloud](https://amueller.github.io/word_cloud/){:target="_blank"} created with my latest work.
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/word_ds_sphWind.png){: .align-center}
 
