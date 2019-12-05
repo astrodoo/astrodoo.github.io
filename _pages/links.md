@@ -24,6 +24,7 @@ header:
 
 
 ## Computations:
+* [HARMPI code](https://github.com/atchekho/harmpi)
 * [Athena code](https://princetonuniversity.github.io/Athena-Cversion/) & [Athena++ code](http://princetonuniversity.github.io/athena/)
 * [Flash code (ASC in Chicago Univ.)](http://flash.uchicago.edu/website/home/)
 * [Zeus MP2](http://solarmuri.ssl.berkeley.edu/~ledvina/public/code/)
