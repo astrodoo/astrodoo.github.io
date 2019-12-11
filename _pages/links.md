@@ -69,42 +69,43 @@ header:
    * [Blender](https://www.blender.org/){:target="_blank"}
    * [AstroBlend](http://www.astroblend.com/getstarted.html){:target="_blank"}
 
-
 ## Observations:
-* [EHT Collaboration](https://eventhorizontelescope.org/){:target="_blank"}
+* [Event Horizon Telescope](https://eventhorizontelescope.org/){:target="_blank"}
 * [SIMBAD Astronomical Database](http://simbad.u-strasbg.fr/simbad/){:target="_blank"}
 * [NASA/IPAC Extragalactic Database (NED)](http://ned.ipac.caltech.edu/){:target="_blank"}
-* [Event Horizon Telescope](https://eventhorizontelescope.org/){:target="_blank"}
 * [NuSTAR (Nuclear Spectroscopic Telescope ARray)](http://www.nustar.caltech.edu/){:target="_blank"}
 * [XMM-Newton (X-ray Multi Mirror Mission)](http://xmm.esac.esa.int/){:target="_blank"}
 * [ArcSecond (Search engine for Astronomical target)](https://www.arcsecond.io/){:target="_blank"}
 
-## Miscellaneous:
+## Open Astronomy Books:
+* [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io/){:target="_blank"}
+* [AAS-IOP Astronomy](https://iopscience.iop.org/bookList/10/1?orderBy=date&orderDir=descending&book-subject=&collection=AAS-IOP+Astronomy&year=&submit=Go){:target="_blank"}
+
+## Fun with Astronomy:
+* [Astronomy Picture of the Day](http://apod.nasa.gov/apod/){:target="_blank"}
 * [Black Hole Shadow](http://rantonels.github.io/starless/){:target="_blank"}: [github](https://github.com/rantonels/starless){:target="_blank"}
 * [Stars in a Box](https://starinabox.lco.global/){:target="_blank"}
-* [Astronomy Picture of the Day](http://apod.nasa.gov/apod/){:target="_blank"}
 * [Stellarium: open source planetarium package](http://stellarium.org/){:target="_blank"}
 * [Gaia Sky: open source, real-time 3D visualization from Gaia Data](https://zah.uni-heidelberg.de/institutes/ari/gaia/outreach/gaiasky/){:target="_blank"}
 * [AstroBetter](http://www.astrobetter.com/){:target="_blank"}
 * [Astrobites](http://astrobites.org/){:target="_blank"}
-* [Open Astrophysics Bookshelf](http://open-astrophysics-bookshelf.github.io/){:target="_blank"}
 * [Black Hole Encyclopedia](http://blackholes.stardate.org/){:target="_blank"}
 * [Galaxy Zoo Project](http://www.galaxyzoo.org/){:target="_blank"}
 * [Galaxy Merger Project](http://galmer.obspm.fr/){:target="_blank"}
 * [AstroNet:A Neural Network for Identifying Exoplanets in Light Curves](https://github.com/google-research/exoplanet-ml){:target="_blank"}
 * [Monthly Sky Map](http://www.skymaps.com/downloads.html){:target="_blank"}
+
+## Besides Astronomy for Fun:
 * [PhD Comics](http://www.phdcomics.com/comics.php){:target="_blank"}
 * [Prezi](https://prezi.com/){:target="_blank"}
 * [Sphinx-python](http://www.sphinx-doc.org/en/stable/){:target="_blank"}
 * [Jekyll](https://jekyllrb.com/){:target="_blank"}
-
 
 ## Personal pages:
 * [Facebook](http://www.facebook.com/doosoo){:target="_blank"}
 * [AstroCoffee](http://astrocoffee.tistory.com/){:target="_blank"} (Korean)
 * [AstroCoke (Scraps)](http://astrocoke.tistory.com/) (Korean){:target="_blank"}
 * [Personal blog](http://centerofworld.tistory.com){:target="_blank"} (Korean)
-
 
 ## Affiliations:
 * [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"}
