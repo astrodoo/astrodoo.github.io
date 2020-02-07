@@ -14,12 +14,15 @@ header:
   overlay_filter: "0.5"
 ---
 
-[All of my publications (in ADS)](https://ui.adsabs.harvard.edu/search/q=docs(6cdfbaacbcc81210407cb139b01b2ac8)&sort=date%20desc%2C%20bibcode%20desc&p_=0){:target="_blank"}
+[All of my publications (in ADS)](https://ui.adsabs.harvard.edu/search/p_=0&q=docs(2aee04c8f4b6d09b6d0e56406cf82949)&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
 
 ## Refereed Publications:
 
-* **Yoon, D.**, Yuan, F., Ostriker, J.P., Ciotti, L., & Zhu, B. "*On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy*" 2019, _ApJ_ in press <br />
-  [_ADS_](https://ui.adsabs.harvard.edu/abs/2019arXiv190107570Y/abstract){:target="_blank"}
+* Liska, M., Chatterjee, K., Tchekhovskoy, A., **Yoon, D.**, van Eijnatten, D., Hesp, C., Markoff, S., Ingram, A. & van der Klis, M. "*H-AMR: A New GPU-accelerated GRMHD Code for Exascale Computing With 3D Adaptive Mesh Refinement and Local Adaptive Time-stepping*" 2020, Submitted to _MNRAS_ <br />
+  [_ADS_](https://ui.adsabs.harvard.edu/abs/2019arXiv191210192L/abstract){:target="_blank"}
+
+* **Yoon, D.**, Yuan, F., Ostriker, J.P., Ciotti, L., & Zhu, B. "*On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy*" 2019, _ApJ_, 885, 16 <br />
+  [_ApJ_](http://dx.doi.org/10.3847/1538-4357/ab45e8){:target="_blank"} | [_ADS_](https://ui.adsabs.harvard.edu/abs/2019ApJ...885...16Y/abstract){:target="_blank"}
 
 * **Yoon, D.**, Yuan, F., Gan, Z., Ostriker, J.P., Li, Y., & Ciotti, L. "*Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (II): High-Angular Momentum Case*" 2018, _ApJ_, 864, 6 <br />
   [_ApJ_](http://dx.doi.org/10.3847/1538-4357/aad37e){:target="_blank"} | [_ADS_](https://ui.adsabs.harvard.edu/abs/2018ApJ...864....6Y/abstract){:target="_blank"}
