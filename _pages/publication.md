@@ -14,9 +14,16 @@ header:
   overlay_filter: "0.5"
 ---
 
-[All of my publications (in ADS)](https://ui.adsabs.harvard.edu/search/p_=0&q=docs(2aee04c8f4b6d09b6d0e56406cf82949)&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
+[All of my publications (in ADS)](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=-docs(e3a0bb9e6161655ec80fcde0f9ba7886)%20author%3A%22Yoon%2C%20Doosoo%22%20year%3A2011-&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
+
+<!-- 
+(https://ui.adsabs.harvard.edu/search/p_=0&q=docs(2aee04c8f4b6d09b6d0e56406cf82949)&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
+-->
 
 ## Refereed Publications:
+
+* Chatterjee, K., Younsi, Z., Liska, M., Tchekhovskoy, A., Markoff, S., **Yoon, D.**, van Eijnatten, D., Hesp, C., Ingram, A., van der Klis, M. "Observational signatures of disk and jet misalignment in images of accreting black holes" 2020, Submitted to _MNRAS_ <br />
+  [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv200208386C/abstract){:target="_blank"}
 
 * Liska, M., Chatterjee, K., Tchekhovskoy, A., **Yoon, D.**, van Eijnatten, D., Hesp, C., Markoff, S., Ingram, A. & van der Klis, M. "*H-AMR: A New GPU-accelerated GRMHD Code for Exascale Computing With 3D Adaptive Mesh Refinement and Local Adaptive Time-stepping*" 2020, Submitted to _MNRAS_ <br />
   [_ADS_](https://ui.adsabs.harvard.edu/abs/2019arXiv191210192L/abstract){:target="_blank"}
