@@ -17,6 +17,15 @@ header:
 
 # Collection of movie clips for the published work.
 
+### Spectral and Imaging Properties of Sgr A\* from High-Resolution 3D GRMHD Simulations with Radiative Cooling
+
+<!-- <video width="700" height="744" controls="controls"> -->
+<video width="700" height="569" controls="controls">
+<source src="{{ site.url }}{{ site.baseurl }}/assets/movies/Cool_NoCool_rho.mp4" type="video/mp4">
+</video>
+<!-- 658x700 -->
+
+
 
 ### Active Galactic Nuclei Feedback in an Elliptical Galaxy with the Most Updated AGN Physics (I): Low-Angular Momentum Case
 [see Yuan et al. 2018](https://ui.adsabs.harvard.edu/abs/2018ApJ...857..121Y/abstract){:target="_blank"}
