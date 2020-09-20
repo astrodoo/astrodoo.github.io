@@ -104,7 +104,7 @@ header:
 ## Personal pages:
 * [Facebook](http://www.facebook.com/doosoo){:target="_blank"}
 * [AstroCoffee](http://astrocoffee.tistory.com/){:target="_blank"} (Korean)
-* [AstroCoke (Scraps)](http://astrocoke.tistory.com/) (Korean){:target="_blank"}
+* [AstroCoke (Scraps)](http://astrocoke.tistory.com/){:target="_blank"} (Korean)
 * [Personal blog](http://centerofworld.tistory.com){:target="_blank"} (Korean)
 
 ## Affiliations:
