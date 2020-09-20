@@ -59,7 +59,7 @@ header:
    * [IDL Astro Library](http://idlastro.gsfc.nasa.gov/){:target="_blank"}
    * [Markwardt IDL Library](http://www.physics.wisc.edu/~craigm/idl/idl.html){:target="_blank"}
    * [GBT IDL Library](http://gbtidl.nrao.edu/){:target="_blank"}
-   * [IDL User's Group](http://idl.selab.re.kr/) (Korean){:target="_blank"}
+   * [IDL User's Group](http://idl.selab.re.kr/){:target="_blank"} (Korean)
 * Julia
    * [Julia code language](https://julialang.org/){:target="_blank"}
 * 3D Visualization
