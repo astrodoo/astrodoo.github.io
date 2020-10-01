@@ -46,8 +46,9 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 
 * **Recent & Upcoming Events** 
-   * present a poster in [RAS Early Career Poster Exhibition](https://ras.ac.uk/ras-2020-posters){:target="_blank"}
-   * The paper "***Spectral and Imaging properties of Sgr A\* from High-Resolution 3D GRMHD Simulations with Radiative Cooling***" is submitted to MNRAS (Sep. 2020)
+   * present an oral talk in [Young Astronomers on Galactic Nuclei (YAGN20)](https://indico.nbi.ku.dk/event/1305/) (Oct. 28-30, 2020)
+   * present a poster in [RAS Early Career Poster Exhibition](https://ras.ac.uk/ras-2020-posters){:target="_blank"} (Sep. 2020)
+   * The paper "***Spectral and Imaging properties of Sgr A\* from High-Resolution 3D GRMHD Simulations with Radiative Cooling***" is accepted to publication in MNRAS (Sep. 2020)
    * present an oral talk in EHT Theory symposium on-line (Sep. 3, 2020). 
    * present a poster in [AAS 235th](https://aas.org/meetings/aas235){:target="_blank"} at Hawaii (Jan.,2020)
    * The paper "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" is accepted for publication in ApJ (Sep.2019)
