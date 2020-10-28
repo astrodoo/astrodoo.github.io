@@ -22,11 +22,8 @@ header:
 
 ## Refereed Publications:
 
-* **Yoon, D.**, Chatterjee, K., Markoff, S., van Eijnatten, D., Younsi, Z., Lisk, M., Tchekhovskoy, A. "Spectral and Imaging properties of Sgr A* from High-Resolution 3D GRMHD Simulations with Radiative Cooling" 2020, Accepted to publication in _MNRAS_ <br />
-  [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv200914227Y/abstract){:target="_blank"}
-
-* Chatterjee, K., Younsi, Z., Liska, M., Tchekhovskoy, A., Markoff, S., **Yoon, D.**, van Eijnatten, D., Hesp, C., Ingram, A., van der Klis, M. "Observational signatures of disk and jet misalignment in images of accreting black holes" 2020, Accepted to publication in _MNRAS_ <br />
-  [_MNRAS_](https://academic.oup.com/mnras/advance-article/doi/10.1093/mnras/staa2718/5902418){:target="_blank"} | [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv200208386C/abstract){:target="_blank"}
+* Chatterjee, K., Younsi, Z., Liska, M., Tchekhovskoy, A., Markoff, S., **Yoon, D.**, van Eijnatten, D., Hesp, C., Ingram, A., van der Klis, M. "Observational signatures of disk and jet misalignment in images of accreting black holes" 2020, Submitted to _MNRAS_ <br />
+  [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv200208386C/abstract){:target="_blank"}
 
 * Liska, M., Chatterjee, K., Tchekhovskoy, A., **Yoon, D.**, van Eijnatten, D., Hesp, C., Markoff, S., Ingram, A. & van der Klis, M. "*H-AMR: A New GPU-accelerated GRMHD Code for Exascale Computing With 3D Adaptive Mesh Refinement and Local Adaptive Time-stepping*" 2020, Submitted to _MNRAS_ <br />
   [_ADS_](https://ui.adsabs.harvard.edu/abs/2019arXiv191210192L/abstract){:target="_blank"}
