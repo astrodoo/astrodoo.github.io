@@ -18,6 +18,13 @@ header:
 # Collection of movie clips for the published work.
 
 ### Spectral and Imaging Properties of Sgr A\* from High-Resolution 3D GRMHD Simulations with Radiative Cooling
+[see Yoon et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3178Y/abstract){:target="_blank"}
+
+<!-- <video width="700" height="744" controls="controls"> -->
+<video width="700" height="324" controls="controls">
+<source src="{{ site.url }}{{ site.baseurl }}/assets/movies/BHOSS_angle_C3D1R192.mp4" type="video/mp4">
+</video>
+<!-- 658x700 -->
 
 <!-- <video width="700" height="744" controls="controls"> -->
 <video width="700" height="569" controls="controls">
