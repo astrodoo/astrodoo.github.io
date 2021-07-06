@@ -16,8 +16,9 @@ header:
 ---
 
 [Here]({{ site.url }}{{ site.baseurl }}/assets/pdfs/Yoon_CV.pdf) is a pdf form of my CV.
+{: .notice--info}
 
------
+---
 
 ![image-center]({{ site.url }}{{ site.baseurl }}/assets/images/word_ds_sphWind.png){: .align-center}
 

@@ -16,6 +16,9 @@ header:
 ---
 
 # Collection of movie clips for the published work.
+ More movie clips in the [Youtube channel](https://www.youtube.com/channel/UCNTuvVdrQapEfOR4_pBf48A){:target="_blank"} 
+{: .notice--success}
+
 
 ### Spectral and Imaging Properties of Sgr A\* from High-Resolution 3D GRMHD Simulations with Radiative Cooling
 [see Yoon et al. 2020](https://ui.adsabs.harvard.edu/abs/2020MNRAS.499.3178Y/abstract){:target="_blank"}
