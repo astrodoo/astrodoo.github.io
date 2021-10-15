@@ -46,6 +46,7 @@ tennis, ping-pong, and so on. Also, I like traveling everywhere and playing guit
 
 
 * **Recent & Upcoming Events** 
+   * award the most cited IOP Publishing paper in China between 2018 and 2020: "***On the Role of Hot Feedback Mode in Active Galactic Nuclei Feedback in an Elliptical Galaxy***" 
    * give a lecture in Astronomy Summer Course, organized by [the STEDU Association](https://www.steduassociation.com/){:target="_blank"} (Jun.12 - Aug.08, 2021)
    * present an ePoster in [European Astronomical Society Annual Meeting (EAS) 2021](https://eas.unige.ch/EAS2021/){:target="_blank"} (Jun.28 - Jul.02, 2021)
    * attend **the Event Horizon Telescope Collaboration Virtural Meeting 2020** (Dec. 04-14, 2020)
