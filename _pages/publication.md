@@ -15,6 +15,7 @@ header:
 ---
 
 [All of my publications (in ADS)](https://ui.adsabs.harvard.edu/search/filter_database_fq_database=AND&filter_database_fq_database=database%3A%22astronomy%22&fq=%7B!type%3Daqp%20v%3D%24fq_database%7D&fq_database=(database%3A%22astronomy%22)&p_=0&q=-docs(e3a0bb9e6161655ec80fcde0f9ba7886)%20author%3A%22Yoon%2C%20Doosoo%22%20year%3A2011-&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
+{: .notice--info}
 
 <!-- 
 (https://ui.adsabs.harvard.edu/search/p_=0&q=docs(2aee04c8f4b6d09b6d0e56406cf82949)&sort=date%20desc%2C%20bibcode%20desc){:target="_blank"}
@@ -22,8 +23,8 @@ header:
 
 ## Refereed Publications:
 
-* Chatterjee, K., Markoff, S., Neilsen, J., Younsi, Z., Witzel, G., Tchekhovskoy, A., **Yoon, D.**, Ingram, A., van der Klis, M., Boyce, H., Do, T., Haggard, D., Nowak, M. "General relativistic MHD simulations of non-thermal flaring in Sagittarius A*" 2020, Submitted to _MNRAS_ <br />
-  [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv201108904C/abstract){:target="_blank"}
+* Chatterjee, K., Markoff, S., Neilsen, J., Younsi, Z., Witzel, G., Tchekhovskoy, A., **Yoon, D.**, Ingram, A., van der Klis, M., Boyce, H., Do, T., Haggard, D., Nowak, M. "General relativistic MHD simulations of non-thermal flaring in Sagittarius A*" 2020, MNRAS, 507, 5281 <br />
+  [_MNRAS_](https://academic.oup.com/mnras/article-abstract/507/4/5281/6362613?redirectedFrom=fulltext){:target="_blank"} | [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv201108904C/abstract){:target="_blank"a}
 
 * **Yoon, D.**, Chatterjee, K., Markoff, S., van Eijnatten, D., Younsi, Z., Lisk, M., Tchekhovskoy, A. "Spectral and Imaging properties of Sgr A* from High-Resolution 3D GRMHD Simulations with Radiative Cooling" 2020, _MNRAS_, 499, 3178 <br />
   [_MNRAS_](https://academic.oup.com/mnras/article/499/3/3178/5917103){:target="_blank"} | [_ADS_](https://ui.adsabs.harvard.edu/abs/2020arXiv200914227Y/abstract){:target="_blank"}
