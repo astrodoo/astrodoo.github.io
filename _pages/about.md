@@ -21,7 +21,7 @@ header:
   <!-- <figcaption>Itty-bitty caption.</figcaption> -->
 </figure>
 
-I am a postdoctoral fellow, working with [Prof. Sera Markoff](http://www.seramarkoff.com/){:target="_blank"} at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"}.
+I am a postdoctoral fellow in [Prof. Sera Markoff](http://www.seramarkoff.com/){:target="_blank"}'s group at [Anton Pannekoek Institute for Astronomy](http://api.uva.nl/){:target="_blank"}.
 Using GRMHD code _H-AMR_, I've been studying the dynamics of an accretion disk, wind, and jets around black holes. As a member of the Event Horizon Telescope (EHT) project,
 I've been participating in the collaborative investigation that explores the nature of supermassive black holes, such as Sgr A* and M87.
 
